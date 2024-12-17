@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Profil</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur mon profil</h1>
+        <img src="images/profile-picture.png" alt="Ma photo de profil">
+    </header>
+    <section>
+        <h2>À propos de moi</h2>
+        <p>Je suis étudiant(e) en nutrition humaine et passionné(e) par l'amélioration du bien-être et de la santé.</p>
+    </section>
+    <footer>
+        <p>Contactez-moi par email: <a href="mailto:ton-email@exemple.com">ton-email@exemple.com</a></p>
+    </footer>
+</body>
+</html>
